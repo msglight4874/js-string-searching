@@ -2,5 +2,5 @@
 
 ## Todo List
 - [x] Brute-force Algorithm
-- [ ] Knuth-Morris-Pratt Algorithm
+- [x] Knuth-Morris-Pratt Algorithm
 
