@@ -1,5 +1,5 @@
 //
-// 建立 pattern 的最大前後綴表
+// 建立 pattern 的最大共同前後綴表
 //
 // 假設 pattern 為 ABCABA
 // 建立的順序如下
